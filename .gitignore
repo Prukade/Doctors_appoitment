@@ -1,0 +1,10 @@
+.vscode/
+main.exe
+test.cpp
+test.exe
+database/Login/*
+!database/Login/.gitkeep
+database/Users/*
+!database/Users/.gitkeep
+devDatabase/
+**/files.txt
